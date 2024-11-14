@@ -1,0 +1,12 @@
+numpy
+plotly.express
+yfinance
+datetime
+pandas
+dash
+plotly.graph_objects
+dash.dependencies
+pypfopt
+pyfolio
+warnings
+matplotlib.pyplot
